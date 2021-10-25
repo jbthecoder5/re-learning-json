@@ -1,12 +1,15 @@
-{
-    "name": "kyle",
-    "favoriteNumber": 3,
-    "isProgrammer": true,
-    "hobbies": ["Weight lifting", "Bowling"],
-    "friends": [{
-        "name": "Joey",
-        "favoriteNumber": 100,
-        "isProgrammer": false,
-        "friends": [...]
-    }]
-}
+[
+    {
+        "name": "Big Corporation",
+        "numberofEmployees": 10000,
+        "ceo": "Mary",
+        "rating": 3.6
+    },
+
+    {
+        "name": "Small Startup",
+        "numberofEmployees": 3,
+        "ceo": null,
+        "rating": 4.3
+    }
+]
